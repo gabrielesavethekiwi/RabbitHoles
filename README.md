@@ -1,7 +1,7 @@
-
-
 If you find this work useful or use it in your own projects,
-please consider citing it.
+please consider citing it as
+
+Gabriele Manganelli, "RabbitHoles", GitHub repository, 2024. URL: https://github.com/https://github.com/gabrielesavethekiwi/RabbitHoles
 
 ## License
 
